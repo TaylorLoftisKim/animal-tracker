@@ -1,0 +1,11 @@
+{ "animals": [{
+  "specie": "Arctic Fox",
+  "name": "Moon",
+  "age": "2",
+  "diet": "Carnivore",
+  "caretakers": "5",
+  "sex": "Female",
+  "likes": "Cool Shade",
+  "dislikes": "Loud Noises"
+  }]
+}
