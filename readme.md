@@ -4,6 +4,9 @@
 
 #### By _**Taylor Loftis-Kim**_
 
+##Read!
+_The Project in its current state was moved into this new repository due to Git conflicts from last repo._
+
 ## Description
 
 _This application allows zoo keepers the ability to log and track animals in their park. They can create and edit selected parameters of the animals profile._
