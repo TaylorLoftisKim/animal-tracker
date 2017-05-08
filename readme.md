@@ -1,4 +1,4 @@
-# _{Animal Track Application}_
+# _Animal Track Application_
 
 #### _An app that allows Zoo Keepers to track various animals, along with their information._
 
