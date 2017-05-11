@@ -41,6 +41,9 @@
     "concurrently": "3.0.0",
     "lite-server": "2.2.2",
     "typescript": "2.2.2",
-    "typings":"1.3.2"
-  }
+    "typings": "1.3.2"
+  },
+  "description": "#### _An app that allows Zoo Keepers to track various animals, along with their information._",
+  "main": "gulpfile.js",
+  "author": ""
 }
